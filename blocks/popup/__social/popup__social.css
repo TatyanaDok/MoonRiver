@@ -1,0 +1,6 @@
+.popup__social {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 85px;
+}

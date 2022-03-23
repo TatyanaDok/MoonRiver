@@ -1,0 +1,6 @@
+.menu__burger {
+  background: url(/images/Group.svg) no-repeat;
+  color: aliceblue;
+  width: 30px;
+  cursor: pointer;
+}

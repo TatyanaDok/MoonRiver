@@ -1,0 +1,18 @@
+.chapter__title {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  line-height: 71px;
+  letter-spacing: 0.03em;
+  margin: 0;
+  color: #333333;
+}
+.chapter__title:after {
+  content: "";
+  display: block;
+  height: 1px;
+  background-color: white;
+  width: 130px;
+  margin-left: 130px;
+  margin-top: 23px;
+}

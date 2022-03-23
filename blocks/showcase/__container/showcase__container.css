@@ -1,0 +1,6 @@
+.showcase__container {
+  background-color: #ededed;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 20px;
+}

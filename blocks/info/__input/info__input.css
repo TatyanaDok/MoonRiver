@@ -1,0 +1,16 @@
+.info__input {
+  background: url(/images/strelka.svg) no-repeat right;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  padding-bottom: 8px;
+  color: #959595;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 28px;
+  border-bottom: 1.8px solid #272727;
+}
+.info__input:focus {
+  outline: none;
+}

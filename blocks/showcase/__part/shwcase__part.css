@@ -1,0 +1,4 @@
+.showcase__part {
+  display: grid;
+  row-gap: 20px;
+}

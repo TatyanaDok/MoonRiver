@@ -1,0 +1,5 @@
+.header__menu {
+  display: flex;
+  justify-content: space-between;
+  padding: 75px 162px 0 140px;
+}

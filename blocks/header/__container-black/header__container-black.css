@@ -1,0 +1,7 @@
+.header__container-black {
+  background: #272727;
+  width: 562px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

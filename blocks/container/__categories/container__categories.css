@@ -1,0 +1,9 @@
+.container__categories {
+  display: flex;
+  margin: 0 auto;
+  color: white;
+  padding: 70px 0;
+  max-width: 1115px;
+  border-bottom: 1.8px solid #2f2f2f;
+  cursor: pointer;
+}

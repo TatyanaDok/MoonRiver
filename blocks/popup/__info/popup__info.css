@@ -1,0 +1,5 @@
+.popup__info {
+  max-width: 1115px;
+  margin: 70px auto;
+  display: flex;
+}

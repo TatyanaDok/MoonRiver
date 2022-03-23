@@ -1,0 +1,10 @@
+.chapter__man {
+  background: url(/images/man.jpeg) no-repeat;
+  width: 100%;
+  height: 587px;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

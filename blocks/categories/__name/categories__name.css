@@ -1,0 +1,13 @@
+.categories__name {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  letter-spacing: 0.06em;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+.categories__name:hover {
+  border-bottom: white 1px solid;
+  cursor: pointer;
+}

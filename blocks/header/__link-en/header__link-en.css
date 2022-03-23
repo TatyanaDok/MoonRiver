@@ -1,0 +1,8 @@
+.header__link-en {
+  margin-right: 10px;
+  text-decoration: none;
+  color: black;
+}
+.header__link-en:hover {
+  border-bottom: 1px solid black;
+}

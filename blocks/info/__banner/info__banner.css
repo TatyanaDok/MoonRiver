@@ -1,0 +1,12 @@
+.info__banner {
+  background: url(/images/banner.jpeg) no-repeat;
+  width: 749px;
+  height: 268px;
+  margin: 0;
+  display: flex;
+  color: white;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: Forum;
+  background-size: cover;
+}

@@ -1,0 +1,6 @@
+.header__info {
+  padding: 780px 162px 60px 202px;
+  display: flex;
+  flex-direction: column;
+  text-align: end;
+}

@@ -1,0 +1,17 @@
+.dots {
+  align-self: center;
+  display: flex;
+}
+.dots ul {
+  padding: 0;
+}
+.dots ul li {
+  width: 8px;
+  height: 8px;
+  background-color: #999;
+  display: inline-block;
+  margin: 0 17px 0 0;
+  border-radius: 50%;
+  cursor: pointer;
+  padding: 0;
+}

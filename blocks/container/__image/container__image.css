@@ -1,0 +1,5 @@
+.container__image {
+  display: flex;
+  overflow: hidden;
+  margin-bottom: 80px;
+}
