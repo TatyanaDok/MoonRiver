@@ -1,12 +1,12 @@
 # MoonRiver
 
-## Лендинг ювелирного магазина
+## Jewelry store landing page
 
-## Испльзуемые технологии:
+## Used technologies:
 
 - HTML;
 - CSS;
 - Javascript;
 - Jquery;
-- Методология БЭМ - в разметке и структуре проекта;
+- BEM methodology - in the markup and structure of the project;
 - Flex
